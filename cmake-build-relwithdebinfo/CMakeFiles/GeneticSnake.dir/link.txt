@@ -1,1 +1,0 @@
-/usr/bin/clang++ -O2 -g -DNDEBUG CMakeFiles/GeneticSnake.dir/main.cpp.o CMakeFiles/GeneticSnake.dir/src/Game.cpp.o CMakeFiles/GeneticSnake.dir/src/Ui.cpp.o CMakeFiles/GeneticSnake.dir/src/SimpleActor.cpp.o -o GeneticSnake  -lSDL2 

@@ -1,3 +1,0 @@
-/home/jonas/Code/C++/GeneticSnake/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/jonas/Code/C++/GeneticSnake/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/jonas/Code/C++/GeneticSnake/cmake-build-debug/CMakeFiles/GeneticSnake.dir
